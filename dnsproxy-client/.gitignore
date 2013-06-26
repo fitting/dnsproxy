@@ -1,0 +1,23 @@
+# Standard build target folders
+target/*
+classes/*
+dist/*
+
+# Eclipse IDE
+.metadata
+.settings
+.classpath
+.project
+
+# IntelliJ IDEA IDE
+.idea
+*.iml
+*.ipr
+*.iws
+
+# OS & Various files
+.checkstyle
+.pmd
+.DS_Store
+desktop.ini
+*.log
